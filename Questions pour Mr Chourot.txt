@@ -1,0 +1,3 @@
+Doise-je nommer mon fichier .html ou simplement mettre mon nom? car dans propriétés du fichier on voit .html.html en double
+Est-ce que c'est mieux de mettre Format avec Prettier ou est-ce que je peux séparer mon code a ma façon comme je l'ai fait ?
+Est-ce qu'on upload en format ZIP dans la remise ou on fait juste upload le fichier html?
